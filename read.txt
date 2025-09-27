@@ -1,0 +1,23 @@
+HEY GUYS.
+
+
+so if you want 8000hz polling rate make sure you devices support so high polling rate and to check is you google your current device that you want to get 8000hz on. 
+
+
+and update your device to the latest version of your drivers. 
+
+
+if your on wireless connection make sure are close to your dongle beacuse other whise is gonna be poor connection. and if you have wired connetion to your mouse use that or wireless you can check booth what is best for what gives you the most polling rate of your device.
+
+also very and most of the inprotent is have a strong cpu and google your current device that install on your pc cpu so  it can hold a high polling rate beacuse your cpu is getting more tired for more you put more power for that pc.
+
+
+make sure also that the polling rate software that you gonna test your polling rate can handle 8000hz polling rate.
+
+and have a good cord and enough power for your dongle and mouse and have good battery on your mouse to your mouse and have a good power for your device that you gonna have 8000hz polling rate beacuse if donat in life donat pc if donat have energy you can not enable to do big stoff that is hard to do. and that is also the same as your pc. 
+
+
+
+l think a good battery for your device is 75 to 100%	
+
+
